@@ -15,7 +15,7 @@ The presented resiliency recommendations in this guidance include Azure VMware S
 |  Recommendation                                   |      Category         |  Impact         |  State            | ARG Query Available |
 | :------------------------------------------------ | :---------------------------------------------------------------------: | :------:        | :------:          | :------:          |
 |[AVS-1 - Configure Azure Service Health notifications and alerts for Azure VMware Solution](#avs-1---configure-azure-service-health-notifications-and-alerts-for-azure-vmware-solution) | Monitoring | High | Verified | Yes |
-|[AVS-2 - Configure Syslog in Diagnostic Settings for Azure VMware Solution](#avs-2---configure-syslog-in-diagnostic-settings-for-azure-vmware-solution) | Monitoring | Medium | Verified | No |
+|[AVS-2 - Configure Syslog in Diagnostic Settings for Azure VMware Solution](#avs-2---configure-syslog-in-diagnostic-settings-for-azure-vmware-solution) | Monitoring | High | Verified | No |
 |[AVS-3 - Configure Azure Monitor Alert warning thresholds for vSAN datastore utilization](#avs-3---configure-azure-monitor-alert-warning-thresholds-for-vsan-datastore-utilization) | Monitoring | High | Verified | No |
 |[AVS-4 - Enable Stretched Clusters for Multi-AZ Availability of the vSAN Datastore](#avs-4---enable-stretched-clusters-for-multi-az-availability-of-the-vsan-datastore) | Availability | Low | Verified | Yes |
 |[AVS-5 - Monitor CPU Utilization to ensure sufficient resources for workloads](#avs-5---monitor-cpu-utilization-to-ensure-sufficient-resources-for-workloads) | Monitoring | Medium | Verified | Yes |
@@ -79,7 +79,7 @@ Azure Service Health is the mechanism used to inform customers of any service or
 
 **Category: Monitoring**
 
-**Impact: Medium**
+**Impact: High**
 
 **Recommendation/Guidance**
 
