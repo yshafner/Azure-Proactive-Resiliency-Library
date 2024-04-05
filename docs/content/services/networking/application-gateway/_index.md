@@ -21,7 +21,7 @@ The presented resiliency recommendations in this guidance include Application Ga
 | [AGW-5 - Monitor and Log the configurations and traffic](#agw-5---monitor-and-log-the-configurations-and-traffic)                            |    Monitoring     | Medium | Preview |         No          |
 | [AGW-6 - Use Health Probes to detect backend availability](#agw-6---use-health-probes-to-detect-backend-availability)                        |    Monitoring     | Medium | Preview |         Yes         |
 | [AGW-7 - Deploy Application Gateway in a zone-redundant configuration](#agw-7---deploy-application-gateway-in-a-zone-redundant-configuration)|   Availability    |  High  | Preview |         Yes         |
-| [AGW-8 - Plan for backend maintenance by using connection draining](#agw-8---plan-for-backend-maintenance-by-using-connection-draining)      |    Governance     | Medium | Preview |         No          |
+| [AGW-8 - Plan for backend maintenance by using connection draining](#agw-8---plan-for-backend-maintenance-by-using-connection-draining)      |    Governance     | Medium | Preview |         Yes          |
 | [AGW-9 - Ensure Application Gateway Subnet is using a /24 subnet mask](#agw-9---ensure-application-gateway-subnet-is-using-a-24-subnet-mask) |    Networking     |  High  | Preview |         Yes          |
 
 {{< /table >}}
