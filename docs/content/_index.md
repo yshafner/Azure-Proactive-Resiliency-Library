@@ -6,7 +6,7 @@ weight = 1
 
 {{< alert style="danger" >}}
 
-## WEBSITE MAINTENANCE NOTICE
+## ARCHIVE NOTICE
 
 The APRL repository is scheduled to be migrated to a new repository the week of April 8th.
 The current APRL repository will be placed in READ-ONLY mode from April 8th to April 12th.
