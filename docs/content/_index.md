@@ -8,9 +8,8 @@ weight = 1
 
 ## WEBSITE MAINTENANCE NOTICE
 
-The APRL repository is scheduled to be migrated to a new repository the week of April 8th.
-The current APRL repository will be placed in READ-ONLY mode from April 8th to April 12th.
-No new pull requests will be accepted after April 5th.
+The APRL repository has undergone migration to a new repository called APRLv2.
+As of April 15, 2024, it has been ARCHIVED and will no longer receive support or updates.
 
 ### New Repository: [https://github.com/Azure/Azure-Proactive-Resiliency-Library-v2](https://github.com/Azure/Azure-Proactive-Resiliency-Library-v2)
 
