@@ -36,8 +36,8 @@ The presented resiliency recommendations in this guidance include Virtual Machin
 | [VM-20 - Enable Insights to get more visibility into the health and performance of your virtual machine](#vm-20---enable-vm-insights) | Monitoring | Low | Verified | Yes |
 | [VM-21 - Configure diagnostic settings for all Azure Virtual Machines](#vm-21---configure-diagnostic-settings-for-all-azure-virtual-machines) | Monitoring | Low | Preview | Yes |
 | [VM-22 - Use maintenance configurations for the Virtual Machine](#vm-22---use-maintenance-configurations-for-the-vms) | Governance | High | Verified | Yes |
-| [VM-23 - Avoid using A or B-Series VM Sku for production VMs that need the full performance of the CPU continuously](#vm-23---avoid-using-a-or-b-series-vm-sku-for-production-vms-that-need-the-full-performance-of-the-cpu-continuously) | System Efficiency | High | Preview | Yes |
-| [VM-24 - Mission Critical Workloads should be using Premium or Ultra Disks](#vm-24---mission-critical-workloads-should-be-using-premium-or-ultra-disks) | System Efficiency | High | Preview | Yes |
+| [VM-23 - Avoid using A or B-Series VM Sku for production VMs that need the full performance of the CPU continuously](#vm-23---avoid-using-a-or-b-series-vm-sku-for-production-vms-that-need-the-full-performance-of-the-cpu-continuously) | System Efficiency | High | Verified | Yes |
+| [VM-24 - Mission Critical Workloads should be using Premium or Ultra Disks](#vm-24---mission-critical-workloads-should-be-using-premium-or-ultra-disks) | System Efficiency | High | Verified | Yes |
 | [VM-27 - Use Azure Boost VMs for Maintenance sensitive workload](#vm-27---use-azure-boost-vms-for-maintenance-sensitive-workload) | Availability | Medium | Preview | No |
 | [VM-28 - Enable Scheduled Events for Maintenance sensitive workload VMs](#vm-28---enable-scheduled-events-for-maintenance-sensitive-workload-vms) | Availability | Medium | Preview | No |
 
